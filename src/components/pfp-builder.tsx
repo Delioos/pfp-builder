@@ -42,11 +42,9 @@ function PlusIcon(props) {
 			strokeWidth="2"
 			strokeLinecap="round"
 			strokeLinejoin="round"
-			alt="Plus Icon"
-			role="img"
-			aria-label="Plus Icon"
 		>
-			<title>Plus Icon</title>
+			<title>Upload</title>
+			<path d="M5 12h14" />
 			<path d="M12 5v14" />
 		</svg>
 	);
